@@ -1,0 +1,10 @@
+1	Rahim	8.6
+2	Tapan	8.9
+3	Sailesh	8.3
+4	Saksham	8.7
+5	Saikat	9.2
+6	Sandip	8.83
+7	Akash	8.74
+8	Amlan	9.03
+9	Biplab	8.45
+10	Dipendu	8.68
